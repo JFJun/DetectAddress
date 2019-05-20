@@ -1,0 +1,7 @@
+rpc:
+  port: 6567
+  isStartRpc: 1 # 0是关闭 ，1是开启
+
+socket:
+  port: 6765
+  isStartSocket: 0
